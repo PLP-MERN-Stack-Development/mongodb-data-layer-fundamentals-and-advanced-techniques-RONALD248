@@ -21,9 +21,10 @@ Tasks completed include:
 ### 2. Installation
 Clone this repository and install dependencies:
 ```bash
-git clone <your-repo-link>
-cd <your-repo-folder>
+git clone <https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-RONALD248.git >
+cd <mongodb-data-layer-fundamentals-and-advanced-techniques-RONALD248. >
 npm install
+
 
 
 
