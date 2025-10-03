@@ -25,7 +25,9 @@ git clone <your-repo-link>
 cd <your-repo-folder>
 npm install
 
-## Screenshot
+
+
+### 3. Screenshot.
 Below is a screenshot of the MongoDB Compass showing the `plp_bookstore` database with the `books` collection:
 
 ![MongoDB Screenshot](./screenshot.png)
